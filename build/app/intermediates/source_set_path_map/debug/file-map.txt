@@ -1,0 +1,28 @@
+com.example.bitcointicker.app-jetified-startup-runtime-1.1.1-0 C:\Users\dyumn\.gradle\caches\transforms-3\099fcdf9c261619fd58fca80afa9a94a\transformed\jetified-startup-runtime-1.1.1\res
+com.example.bitcointicker.app-jetified-profileinstaller-1.3.1-1 C:\Users\dyumn\.gradle\caches\transforms-3\11361ffd419190fe575367e107bdcce6\transformed\jetified-profileinstaller-1.3.1\res
+com.example.bitcointicker.app-jetified-savedstate-1.2.1-2 C:\Users\dyumn\.gradle\caches\transforms-3\12f7b63e1b80e254b12c67eadb4c3c1a\transformed\jetified-savedstate-1.2.1\res
+com.example.bitcointicker.app-core-1.13.1-3 C:\Users\dyumn\.gradle\caches\transforms-3\36e2c28c5ed8faddcbd47d21cdfed089\transformed\core-1.13.1\res
+com.example.bitcointicker.app-jetified-tracing-1.2.0-4 C:\Users\dyumn\.gradle\caches\transforms-3\409775b861b4626b5ea04e3794de2dda\transformed\jetified-tracing-1.2.0\res
+com.example.bitcointicker.app-jetified-lifecycle-process-2.7.0-5 C:\Users\dyumn\.gradle\caches\transforms-3\43a6bfef74347e360d9addd8a47d3fea\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.bitcointicker.app-jetified-window-java-1.2.0-6 C:\Users\dyumn\.gradle\caches\transforms-3\4984c11798111fc816bd623620c80a89\transformed\jetified-window-java-1.2.0\res
+com.example.bitcointicker.app-jetified-core-1.0.0-7 C:\Users\dyumn\.gradle\caches\transforms-3\633e33a14b2e1e42d22f16166ef40303\transformed\jetified-core-1.0.0\res
+com.example.bitcointicker.app-jetified-lifecycle-livedata-core-ktx-2.7.0-8 C:\Users\dyumn\.gradle\caches\transforms-3\7556bba94505be34badab9b1bd207f60\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.bitcointicker.app-fragment-1.7.1-9 C:\Users\dyumn\.gradle\caches\transforms-3\869186b7e7ff558bae8ebe5ed38e1afa\transformed\fragment-1.7.1\res
+com.example.bitcointicker.app-jetified-annotation-experimental-1.4.0-10 C:\Users\dyumn\.gradle\caches\transforms-3\ba4858569f4cb68be1caacdfa6fed08c\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.bitcointicker.app-lifecycle-viewmodel-2.7.0-11 C:\Users\dyumn\.gradle\caches\transforms-3\c6129348854c204fdbbb7bdad51e88ea\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.bitcointicker.app-jetified-window-1.2.0-12 C:\Users\dyumn\.gradle\caches\transforms-3\d88497c41e4f38cb083ab56ea6c34eba\transformed\jetified-window-1.2.0\res
+com.example.bitcointicker.app-lifecycle-livedata-2.7.0-13 C:\Users\dyumn\.gradle\caches\transforms-3\daf05a6655ea103c42d38067cc6f0fa8\transformed\lifecycle-livedata-2.7.0\res
+com.example.bitcointicker.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-14 C:\Users\dyumn\.gradle\caches\transforms-3\eac3683ebf980e2c0361e7f042cdf588\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.bitcointicker.app-jetified-activity-1.8.1-15 C:\Users\dyumn\.gradle\caches\transforms-3\ed8509d7d7290d047ee01e7a4c7decd4\transformed\jetified-activity-1.8.1\res
+com.example.bitcointicker.app-jetified-core-ktx-1.13.1-16 C:\Users\dyumn\.gradle\caches\transforms-3\ede4cd41b119e48265bba2dc661122be\transformed\jetified-core-ktx-1.13.1\res
+com.example.bitcointicker.app-lifecycle-livedata-core-2.7.0-17 C:\Users\dyumn\.gradle\caches\transforms-3\eef013749810f1943990611feb776434\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.bitcointicker.app-core-runtime-2.2.0-18 C:\Users\dyumn\.gradle\caches\transforms-3\f0edadf204262a73144cc49dccb1c362\transformed\core-runtime-2.2.0\res
+com.example.bitcointicker.app-lifecycle-runtime-2.7.0-19 C:\Users\dyumn\.gradle\caches\transforms-3\fb6d95243a32efa3c05369bc56ae8fd7\transformed\lifecycle-runtime-2.7.0\res
+com.example.bitcointicker.app-debug-20 C:\Users\dyumn\android projects\BitcoinTicker\android\app\src\debug\res
+com.example.bitcointicker.app-main-21 C:\Users\dyumn\android projects\BitcoinTicker\android\app\src\main\res
+com.example.bitcointicker.app-pngs-22 C:\Users\dyumn\android projects\BitcoinTicker\build\app\generated\res\pngs\debug
+com.example.bitcointicker.app-resValues-23 C:\Users\dyumn\android projects\BitcoinTicker\build\app\generated\res\resValues\debug
+com.example.bitcointicker.app-rs-24 C:\Users\dyumn\android projects\BitcoinTicker\build\app\generated\res\rs\debug
+com.example.bitcointicker.app-mergeDebugResources-25 C:\Users\dyumn\android projects\BitcoinTicker\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.bitcointicker.app-mergeDebugResources-26 C:\Users\dyumn\android projects\BitcoinTicker\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.bitcointicker.app-merged_res-27 C:\Users\dyumn\android projects\BitcoinTicker\build\app\intermediates\merged_res\debug
